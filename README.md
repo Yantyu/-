@@ -1,7 +1,7 @@
 | 这个作业属于哪个课程 | [计算机科学与技术](https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience) |
 | :------------------: | :-------------------------------------------------------------: |
 | 这个作业要求在哪里   | [作业要求](https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience/homework/13469) |
-| 这个作业的目标       | [自我介绍以及了解课程的基本内容]                               |
+| 这个作业的目标       |  自我介绍以及了解课程的基本内容                                |
 
 
 ## 自我介绍
